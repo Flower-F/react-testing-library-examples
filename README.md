@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# Some cases of react-testing-library and Jest
+
+**include**
+- Elements test
+- Events test
+- Redux test
+- Router test
+- Axios test
+- Async test
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
